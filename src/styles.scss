@@ -1,0 +1,31 @@
+* {
+  background-color: #d54d7b;
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-logo {
+  width: 20vw;
+}
+
+.main-title {
+  color: #ffffff;
+  font-family: "Great Vibes", cursive;
+  font-size: 3rem;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: 0 5px 5px rgb(88, 174, 225);
+}
+
+.main-subtitle {
+  color: #c5c2c2;
+  font-family: "Great Vibes", cursive;
+  font-size: 2rem;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: 0 2px 2px rgb(255, 255, 255);
+}
