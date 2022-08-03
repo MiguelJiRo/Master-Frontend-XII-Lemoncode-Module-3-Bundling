@@ -10,6 +10,10 @@
 
 <br>
 
+<img align="center" src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="128px">
+
+<br>
+
 ### Básico
 <ol>
     <li>Tenga el bundling montado con webpack ✅</li>
